@@ -13,12 +13,13 @@ I like building practical AI tools that turn messy information into usable workf
 
 ## Featured Projects
 
+- [AI Knowledge Gym](https://github.com/KleeAlice/ai-agent-rag-question-bank): Interactive bilingual question bank for AI agents, RAG, LLMs, and architecture.
 - [Aurora Markets Research Terminal](https://github.com/KleeAlice/aurora-markets-research-terminal): AI equity research terminal for new-energy stocks.
 - [MaoClassicRAG Demo](https://github.com/FAIRY123456789/MaoClassicRAG_Demo): Course RAG demo project for collaborative development.
 
 ## Tech Stack
 
-Python · FastAPI · React · TypeScript · RAG · LLM APIs · Data Analysis · Product Prototyping
+Python / FastAPI / React / TypeScript / RAG / LLM APIs / Data Analysis / Product Prototyping
 
 ## Contact
 
